@@ -26,7 +26,7 @@ My current research focuses on graphon particle systems/Mean Field Games.
 - D. Cui, S. Deng, Y. Xiang. Convex ordering for graphon mean-field systems.  
   *arXiv preprint*, [arXiv:2608.19576](https://arxiv.org/abs/2608.19576), 2026.
 
-## Teaching assistants
+## Teaching assistant
 
 - MATH4427 Loss Models and their Applications (25Fall, 26Fall)
 - MATH4515 Statistical and Computational Methods in Financial Mathematics (25Fall, 26Fall)
