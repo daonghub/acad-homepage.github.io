@@ -22,4 +22,6 @@ My current research focuses on graphon particle systems / mean field games.
 
 ## Publications
 
-*To be updated.*
+- **[Graphon Mean Field Game of mutual holding](https://arxiv.org/abs/2606.28254)**  
+  **Daorong Cui**, Shuoqing Deng, Yang Xiang.  
+  *arXiv preprint*, [arXiv:2606.28254](https://arxiv.org/abs/2606.28254), 2026.
