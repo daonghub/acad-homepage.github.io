@@ -175,3 +175,28 @@ body {
   .page__content h1 { margin-top: .35em; margin-bottom: .75em; }
   .page__content h2 { margin-top: 1.5em; margin-bottom: .7em; }
 }
+
+/* Keep the profile image perfectly circular regardless of source dimensions. */
+.sidebar .author__avatar img,
+.sidebar img.author__avatar {
+  display: block;
+  box-sizing: border-box;
+  width: 75px;
+  height: 75px;
+  min-width: 75px;
+  max-width: 75px;
+  padding: 0;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+}
+@include breakpoint($large) {
+  .sidebar .author__avatar img,
+  .sidebar img.author__avatar {
+    width: 175px;
+    height: 175px;
+    min-width: 0;
+    max-width: 100%;
+    aspect-ratio: 1 / 1;
+  }
+}
