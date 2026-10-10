@@ -18,6 +18,8 @@ I am a PhD candidate in the [Department of Mathematics](https://www.math.hkust.e
 
 My current research focuses on graphon particle systems/Mean Field Games.
 
+## Teaching assistants
+
 ## Publications
 
 - D. Cui, S. Deng, Y. Xiang. Graphon Mean Field Game of mutual holding.  
