@@ -24,3 +24,5 @@ My current research focuses on graphon particle systems / mean field games.
 
 - D. Cui, S. Deng, Y. Xiang. Graphon Mean Field Game of mutual holding.  
   *arXiv preprint*, [arXiv:2606.28254](https://arxiv.org/abs/2606.28254), 2026.
+
+- Convex ordering for graphon mean-field systems.
