@@ -107,3 +107,19 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+/* Typography sized to match the reference academic homepage */
+@include breakpoint($large) {
+  .page__content {
+    font-size: 18px;
+    line-height: 1.65;
+
+    h1 { font-size: 42px; }
+    h2 { font-size: 26px; }
+    h3 { font-size: 23px; }
+  }
+
+  .sidebar .author__name { font-size: 27px; }
+  .sidebar .author__bio { font-size: 19px; line-height: 1.5; }
+  .sidebar .author__urls li,
+  .sidebar .author__urls a { font-size: 18px; }
+}
