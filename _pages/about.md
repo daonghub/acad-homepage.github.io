@@ -12,7 +12,7 @@ redirect_from:
 
 ## About Me
 
-I am a PhD student in the Department of Mathematics at the Hong Kong University of Science and Technology (HKUST), supervised by DENG Shuoqing and XIANG Yang.
+I am a PhD student in the Department of Mathematics at the Hong Kong University of Science and Technology (HKUST), supervised by [DENG Shuoqing](https://sites.google.com/view/shuoqingdeng/homepage) and XIANG Yang.
 
 Before joining HKUST, I completed an MSc in Statistical Finance at Imperial College London in 2023. I graduated from Central South University with a degree in Statistics in 2022.
 
