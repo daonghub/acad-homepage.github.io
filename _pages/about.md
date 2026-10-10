@@ -18,6 +18,14 @@ I am a PhD candidate in the [Department of Mathematics](https://www.math.hkust.e
 
 My current research focuses on graphon particle systems/Mean Field Games.
 
+## Publications
+
+- D. Cui, S. Deng, Y. Xiang. Graphon Mean Field Game of mutual holding.  
+  *arXiv preprint*, [arXiv:2606.28254](https://arxiv.org/abs/2606.28254), 2026.
+
+- D. Cui, S. Deng, Y. Xiang. Convex ordering for graphon mean-field systems.  
+  *arXiv preprint*, [arXiv:2608.19576](https://arxiv.org/abs/2608.19576), 2026.
+
 ## Teaching assistants
 
 - MATH4427 Loss Models and their Applications (25Fall, 26Fall)
@@ -26,11 +34,3 @@ My current research focuses on graphon particle systems/Mean Field Games.
 - MAFS5010 Stochastic Calculus (24Fall, 25Fall)
 - MATH2023 Multivariable Calculus (24Spr)
 - MATH2121 Linear Algebra (24Fall)
-
-## Publications
-
-- D. Cui, S. Deng, Y. Xiang. Graphon Mean Field Game of mutual holding.  
-  *arXiv preprint*, [arXiv:2606.28254](https://arxiv.org/abs/2606.28254), 2026.
-
-- D. Cui, S. Deng, Y. Xiang. Convex ordering for graphon mean-field systems.  
-  *arXiv preprint*, [arXiv:2608.19576](https://arxiv.org/abs/2608.19576), 2026.
