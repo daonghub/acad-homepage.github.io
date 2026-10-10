@@ -21,6 +21,7 @@ My current research focuses on graphon particle systems/Mean Field Games.
 ## Teaching assistants
 
 - MATH4427 Loss Models and their Applications (25Fall, 26Fall)
+- MATH4515 **Statistical and Computational Methods in Financial Mathematics (25Fall, 26Fall)**
 
 ## Publications
 
