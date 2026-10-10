@@ -200,3 +200,13 @@ body {
     aspect-ratio: 1 / 1;
   }
 }
+
+/* Homepage is a slightly larger, non-clickable masthead label. */
+.greedy-nav .masthead__home-label {
+  display: block;
+  padding: 0 1em;
+  font-size: 21px;
+  font-weight: 750;
+  color: #30343a;
+  cursor: default;
+}
