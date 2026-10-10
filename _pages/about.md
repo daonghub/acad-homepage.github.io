@@ -16,6 +16,10 @@ I am a PhD student in the Department of Mathematics at the Hong Kong University 
 
 Before joining HKUST, I completed an MSc in Statistical Finance at Imperial College London in 2023. I graduated from Central South University with a degree in Statistics in 2022.
 
+## Research Interests
+
+My current research focuses on graphon particle systems and mean field games.
+
 ## Education
 
 - **Hong Kong University of Science and Technology**  
