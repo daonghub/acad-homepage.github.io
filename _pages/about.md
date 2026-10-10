@@ -20,6 +20,8 @@ My current research focuses on graphon particle systems/Mean Field Games.
 
 ## Teaching assistants
 
+- MATH4427 Loss Models and their Applications (25Fall, 26Fall)
+
 ## Publications
 
 - D. Cui, S. Deng, Y. Xiang. Graphon Mean Field Game of mutual holding.  
