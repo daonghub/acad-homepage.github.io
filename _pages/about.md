@@ -20,12 +20,3 @@ Before joining HKUST, I completed an MSc in Statistical Finance at Imperial Coll
 
 My current research focuses on graphon particle systems and mean field games.
 
-## Education
-
-- **Hong Kong University of Science and Technology**  
-  PhD in Mathematics, ongoing  
-  Supervisors: DENG Shuoqing and XIANG Yang
-- **Imperial College London**  
-  MSc in Statistical Finance, 2023
-- **Central South University**  
-  Degree in Statistics, 2022
