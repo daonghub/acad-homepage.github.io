@@ -25,6 +25,7 @@ My current research focuses on graphon particle systems/Mean Field Games.
 - MATH4513 Life Contingencies Models and Insurance Risk (25Spr, 26Spr)
 - MAFS5010 Stochastic Calculus (24Fall, 25Fall)
 - MATH2023 Multivariable Calculus (24Spr)
+- MATH2121 Linear Algebra (24Fall)
 
 ## Publications
 
