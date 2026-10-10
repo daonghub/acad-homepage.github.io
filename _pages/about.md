@@ -18,7 +18,7 @@ Before joining HKUST, I completed an MSc in Statistical Finance at Imperial Coll
 
 ## Research interests
 
-My current research focuses on graphon particle systems / mean field games.
+My current research focuses on graphon particle systems/Mean field games.
 
 ## Publications
 
