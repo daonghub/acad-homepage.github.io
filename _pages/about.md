@@ -16,7 +16,7 @@ I am a PhD candidate in the [Department of Mathematics](https://www.math.hkust.e
 
 ## Research interests
 
-My current research focuses on graphon particle systems/Mean field games.
+My current research focuses on graphon particle systems/Mean Field Games.
 
 ## Publications
 
